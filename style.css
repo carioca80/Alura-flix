@@ -3,8 +3,16 @@ body{
     background-color: rgb(136, 132, 132);
     color: aquamarine;
       font-family: "Bitcount Grid Double", system-ui;
-    border: 355px;
+<<<<<<< HEAD
+    border: 40px;
+=======
+>>>>>>> 703ce922c7f0591af6951edda32d747b51d0129f
 
+}
+
+.linha{
+  height: 25;
+  background: black2;
 }
  header{
 font-size: 60px;
