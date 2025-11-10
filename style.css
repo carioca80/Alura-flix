@@ -1,7 +1,7 @@
 body{
 
-    background-color: rgb(136, 132, 132);
-    color: aquamarine;
+    background-color: rgb(2, 2, 2);
+    color: rgb(135, 248, 22);
       font-family: "Bitcount Grid Double", system-ui;
 <<<<<<< HEAD
     border: 40px;
@@ -16,7 +16,9 @@ body{
 }
  header{
 font-size: 60px;
-
+text-align: center;
+border-bottom: double 5px rgb(101, 246, 4);
+padding: 30px;
  }
   h1{
     font-size: 25px;
